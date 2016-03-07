@@ -25,4 +25,5 @@ conn.commit()
 
 # Print the contents of the database.
 c.execute("SELECT * FROM numbers")
-print([(r[0], r[1]) for r in c.fetchall()])
+print("<button type=/"button/">Hello<//button>/")
+//print([(r[0], r[1]) for r in c.fetchall()])
